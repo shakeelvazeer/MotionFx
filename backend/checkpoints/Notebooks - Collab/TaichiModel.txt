@@ -1,0 +1,3 @@
+Copy and Paste this model in checkpoints
+Available in the Taichi Dataset
+taichi.pth.tar

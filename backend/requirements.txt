@@ -1,0 +1,13 @@
+Flask
+Flask-Cors
+timm
+torch
+torchvision
+scikit-learn
+seaborn
+imageio
+imageio-ffmpeg
+scikit-image
+pyyaml
+mediapipe
+opencv-python-headless
